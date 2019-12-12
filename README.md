@@ -10,7 +10,7 @@ Escreva uma descrição bem detalhada e introdutória.
 
 ## Projetos de Data Science
 
-* **Análise Exploratória de Doenças Cardiovasculares:** https://github.com/carlosfab/meu-portfolio/blob/master/An%C3%A1lise_Explorat%C3%B3ria_de_Dados_Doen%C3%A7as_Cardiovasculares.ipynb
+* **Análise Exploratória de Doenças Cardiovasculares:** https://bit.ly/2YPWKvi
 
 ---
 
