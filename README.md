@@ -10,8 +10,7 @@ Escreva uma descrição bem detalhada e introdutória.
 
 ## Projetos de Data Science
 
-* **PROJETO 1:** [Nome do Projeto 1](https://github.com/carlosfab/)
-* **PROJETO 2:**  [Nome do Projeto 2](https://github.com/carlosfab/)
+* **PROJETO 1:** [Análise Exploratória de Doenças Cardiovasculares](https://github.com/carlosfab/meu-portfolio/blob/master/An%C3%A1lise_Explorat%C3%B3ria_de_Dados_Doen%C3%A7as_Cardiovasculares.ipynb)
 
 ---
 
